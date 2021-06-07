@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Profile Mahasiswa"
+        android:textColor="@color/black"
+        android:textSize="30sp"
+        android:gravity="center"/>
+
+    <TextView
+        android:id="@+id/txtprofil"
+        android:layout_width="255dp"
+        android:layout_height="255dp"
+        android:layout_marginTop="50dp"
+        android:background="@drawable/fd"/>
+
+    <TextView
+        android:id="@+id/nama"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/txtprofil"
+        android:text="@string/nim10118707"
+        android:textColor="@color/black"
+        android:textSize="20sp" />
+
+    <TextView
+        android:id="@+id/nim"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/nama"
+        android:text="@string/R_Wiranda_Purba"
+        android:textColor="@color/black"
+        android:textSize="20sp" />
+
+    <TextView
+        android:id="@+id/kelas"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/nim"
+        android:text="@string/kelas"
+        android:textColor="@color/black"
+        android:textSize="20sp" />
+
+    <TextView
+        android:id="@+id/email"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/kelas"
+        android:text="@string/email"
+        android:textColor="@color/black"
+        android:textSize="20sp" />
+
+
+</RelativeLayout>

@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">UTSAKB</string>
+    <string name="R_Wiranda_Purba">R Wiranda Purba</string>
+    <string name="judul_1">Fly High for Aplikasi Komputasi Bergerak</string>
+    <string name="judul_2">Fly High for Aplikasi Komputasi Bergerak</string>
+    <string name="judul_3">Fly High for Aplikasi Komputasi Bergerak</string>
+    <string name="desk_1">Aplikasi Fly High ini dibuat untuk memenuhi syarat untuk menyelesaikan UTS mata kuliah AKB.</string>
+    <string name="desk_2">Tujuan dari pengolahan aplikasi ini yaitu untuk mencoba pemahaman nya mahasiswa akan gambaran mata kuliah AKB dalam beberapa pertemuan kuliah minggu kemarin</string>
+    <string name="desk_3">Harapannya saya mendapatkan nilai yang memuaskan dari dosen mata kuliah AKB</string>
+    <string name="nim10118707">10118707</string>
+    <string name="kelas">IF 10</string>
+    <string name="email">ajaydinejaad@gmail.com</string>
+</resources>
